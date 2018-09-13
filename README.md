@@ -19,7 +19,29 @@ Responsáveis por abstrair a criação de objetos, transferem e centralizam as r
 - Prototype
 - Singleton
 
-2 - Padrões de estrutura;
-3 - Padrões de comportamento;
+#### Padrões de estrutura;
+Responsavel como classes e objetos são compostos entre si, permitindo alterações nessa composição em tempo de execução.
+
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
 
 
+####Padrões de comportamento;
+Definem a comunicação entre as classes e objetos e como algoritmos se comportam.
+
+- Chain of Responsibility
+- Command
+- Interpreter
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Template Method
+- Visitor
